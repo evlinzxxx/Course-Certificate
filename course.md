@@ -1,9 +1,9 @@
 # Coursera-certificate
 
-* Crash Course On Python, see the [Crash Course On Python](https://www.coursera.org/account/accomplishments/certificate/VEQHP458SACU).
-* Using Python to Interact with the Operating System, see the [Using Python to Interact with the Operating System](https://www.coursera.org/account/accomplishments/certificate/26T4RS3N7XR6).
-* Introduction to Git and GitHub, see the [Introduction to Git and GitHub](https://www.coursera.org/account/accomplishments/certificate/9B3PNF2SKYN3).
-* Troubleshooting and Debugging Techniques, see that [Troubleshooting and Debugging Techniques](https://www.coursera.org/account/accomplishments/certificate/ZA45253HWJNE).
+* Crash Course On Python, see the [Crash Course On Python](https://www.coursera.org/account/accomplishments/verify/VEQHP458SACU).
+* Using Python to Interact with the Operating System, see the [Using Python to Interact with the Operating System](https://www.coursera.org/account/accomplishments/verify/26T4RS3N7XR6).
+* Introduction to Git and GitHub, see the [Introduction to Git and GitHub](https://www.coursera.org/account/accomplishments/verify/9B3PNF2SKYN3).
+* Troubleshooting and Debugging Techniques, see that [Troubleshooting and Debugging Techniques](https://www.coursera.org/account/accomplishments/verify/ZA45253HWJNE).
 
 
 
