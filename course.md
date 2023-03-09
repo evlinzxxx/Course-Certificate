@@ -5,6 +5,7 @@
 * Introduction to Git and GitHub, see the [Introduction to Git and GitHub](https://www.coursera.org/account/accomplishments/verify/9B3PNF2SKYN3).
 * Troubleshooting and Debugging Techniques, see that [Troubleshooting and Debugging Techniques](https://www.coursera.org/account/accomplishments/verify/ZA45253HWJNE).
 * Ask Questions to Make Data-Driven Decisions, see that [Ask Questions to Make Data-Driven Decisions](https://www.coursera.org/account/accomplishments/certificate/EDVUF7YLAJSK).
+* Prepare Data for Exploration, see that [Prepare Data for Exploration](https://www.coursera.org/account/accomplishments/certificate/JK4LPUBBTQNT)
 
 
 
