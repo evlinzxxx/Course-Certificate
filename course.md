@@ -7,6 +7,7 @@
 * Ask Questions to Make Data-Driven Decisions, see that [Ask Questions to Make Data-Driven Decisions](https://www.coursera.org/account/accomplishments/verify/EDVUF7YLAJSK).
 * Prepare Data for Exploration, see that [Prepare Data for Exploration](https://www.coursera.org/account/accomplishments/verify/JK4LPUBBTQNT).
 * Process Data from Dirty to Clean, see that [Process Data from Dirty to Clean](https://www.coursera.org/account/accomplishments/verify/M27ZN6MEYNGK).
+* Analyze Data to Answer Questions, see that [Analyze Data to Answer Questions](https://www.coursera.org/account/accomplishments/verify/RDUJB5WKQXLX).
 
 
 
