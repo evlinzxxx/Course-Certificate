@@ -7,3 +7,4 @@ ILT SS
 ILT ML
 
 * ILT ML 01 - [Introduction to Python & Git/GitHub](https://links.bangkit.academy/Module_ML1)
+* ILT ML 02 - [Data Analytics](https://drive.google.com/file/d/1c_IbxxehXFdtkK6EY-mR1ygO7QdYO2oT/view)
