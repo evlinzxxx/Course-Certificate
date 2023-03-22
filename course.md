@@ -14,8 +14,8 @@
 * Share Data Through the Art of Visualization, see that [Share Data Through the Art of Visualization](https://www.coursera.org/account/accomplishments/verify/Z5JKL4QFUKPB).
 
 ## Mathematics For ML
-* Linear Algebra, see that[Linear Algebra](https://www.coursera.org/account/accomplishments/verify/QJPSPK2XD76V).
-* Multivariate Calculus, see that[Multivariate Calculus](https://www.coursera.org/account/accomplishments/verify/HP8LSUUHYUDS).
+* Linear Algebra, see that [Linear Algebra](https://www.coursera.org/account/accomplishments/verify/QJPSPK2XD76V).
+* Multivariate Calculus, see that [Multivariate Calculus](https://www.coursera.org/account/accomplishments/verify/HP8LSUUHYUDS).
 
 
 
