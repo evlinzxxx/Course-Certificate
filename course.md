@@ -17,6 +17,10 @@
 * Linear Algebra, see that [Linear Algebra](https://www.coursera.org/account/accomplishments/verify/QJPSPK2XD76V).
 * Multivariate Calculus, see that [Multivariate Calculus](https://www.coursera.org/account/accomplishments/verify/HP8LSUUHYUDS).
 * PCA, see that [PCA](https://www.coursera.org/account/accomplishments/verify/PQN5B22P6SXG).
+* ALL of them, see that [here](https://www.coursera.org/account/accomplishments/specialization/X4EFRPXCR2SK).
+
+## Supervised Machine Learning
+* Regression and Classification, see that [Regression and Classification](https://www.coursera.org/account/accomplishments/verify/54GDQDW4UF34).
 
 
 
