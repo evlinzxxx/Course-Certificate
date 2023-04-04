@@ -4,6 +4,8 @@
 * Using Python to Interact with the Operating System, see the [Using Python to Interact with the Operating System](https://www.coursera.org/account/accomplishments/verify/26T4RS3N7XR6).
 * Introduction to Git and GitHub, see the [Introduction to Git and GitHub](https://www.coursera.org/account/accomplishments/verify/9B3PNF2SKYN3).
 * Troubleshooting and Debugging Techniques, see that [Troubleshooting and Debugging Techniques](https://www.coursera.org/account/accomplishments/verify/ZA45253HWJNE).
+* Configuration Management and the Cloud, see that [Configuration Management and the Cloud](https://www.coursera.org/account/accomplishments/verify/WLT22NGU89TF).
+* Automating Real-World Tasks with Python, see that [Automating Real-World Tasks with Python](https://www.coursera.org/account/accomplishments/verify/WEDXG9AK2PZF).
 
 ## Google Data Analytics
 * Foundations: Data, Data, Everywhere, see that [Foundations: Data, Data, Everywhere](https://www.coursera.org/account/accomplishments/verify/UHPDCWBXCAKK).
@@ -12,6 +14,7 @@
 * Process Data from Dirty to Clean, see that [Process Data from Dirty to Clean](https://www.coursera.org/account/accomplishments/verify/M27ZN6MEYNGK).
 * Analyze Data to Answer Questions, see that [Analyze Data to Answer Questions](https://www.coursera.org/account/accomplishments/verify/RDUJB5WKQXLX).
 * Share Data Through the Art of Visualization, see that [Share Data Through the Art of Visualization](https://www.coursera.org/account/accomplishments/verify/Z5JKL4QFUKPB).
+* Data Analysis with R Programming, see that [Data Analysis with R Programming](https://www.coursera.org/account/accomplishments/verify/CHJEXW2JGN89).
 
 ## Mathematics For ML
 * Linear Algebra, see that [Linear Algebra](https://www.coursera.org/account/accomplishments/verify/QJPSPK2XD76V).
