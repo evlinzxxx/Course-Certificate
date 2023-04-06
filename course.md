@@ -16,6 +16,7 @@
 * Analyze Data to Answer Questions, see that [Analyze Data to Answer Questions](https://www.coursera.org/account/accomplishments/verify/RDUJB5WKQXLX).
 * Share Data Through the Art of Visualization, see that [Share Data Through the Art of Visualization](https://www.coursera.org/account/accomplishments/verify/Z5JKL4QFUKPB).
 * Data Analysis with R Programming, see that [Data Analysis with R Programming](https://www.coursera.org/account/accomplishments/verify/CHJEXW2JGN89).
+* Google Data Analytics Capstone: Complete a Case Study, see that [Google Data Analytics Capstone: Complete a Case Study](https://www.coursera.org/account/accomplishments/verify/3P7PYMXQSEQ6).
 * ALL of them, see that [here](https://www.coursera.org/account/accomplishments/professional-cert/WAT3LBGXK4PY).
 
 ## Mathematics For ML
