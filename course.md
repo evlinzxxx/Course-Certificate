@@ -28,6 +28,8 @@
 ## Supervised Machine Learning
 * Regression and Classification, see that [Regression and Classification](https://www.coursera.org/account/accomplishments/verify/54GDQDW4UF34).
 * Advanced Learning Algorithms, see that [Advanced Learning Algorithms](https://www.coursera.org/account/accomplishments/verify/K87YNLYSXYLW).
+* Unsupervised Learning, Recommenders, Reinforcement Learning, see that [Unsupervised Learning, Recommenders, Reinforcement Learning](https://www.coursera.org/account/accomplishments/verify/GCGHMB37BRKR).
+* ALL of them, see that [here](https://www.coursera.org/account/accomplishments/specialization/RY6FVCKMGJDN).
 
 
 # Dicoding-certificate
