@@ -31,6 +31,10 @@
 * Unsupervised Learning, Recommenders, Reinforcement Learning, see that [Unsupervised Learning, Recommenders, Reinforcement Learning](https://www.coursera.org/account/accomplishments/verify/GCGHMB37BRKR).
 * ALL of them, see that [here](https://www.coursera.org/account/accomplishments/specialization/RY6FVCKMGJDN).
 
+## Deeplearning.ai TensorFlow Developer Professional Certificate
+* Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning, see that [
+Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://www.coursera.org/account/accomplishments/verify/L843PBF38PZG).
+
 
 # Dicoding-certificate
 
