@@ -34,6 +34,7 @@
 ## Deeplearning.ai TensorFlow Developer Professional Certificate
 * Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning, see that [
 Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://www.coursera.org/account/accomplishments/verify/L843PBF38PZG).
+* Convolutional Neural Networks in TensorFlow, see that [Convolutional Neural Networks in TensorFlow](https://www.coursera.org/account/accomplishments/verify/DU7LV8W7GN2M).
 
 
 # Dicoding-certificate
