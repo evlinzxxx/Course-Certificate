@@ -39,6 +39,10 @@ Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and De
 * Sequences, Time Series and Prediction, see that [Sequences, Time Series and Prediction](https://www.coursera.org/account/accomplishments/verify/W3UTTGYA2W2S).
 * ALL of them, see that [here](https://www.coursera.org/account/accomplishments/professional-cert/G2FCJEDMQJU4).
 
+* Structuring Machine Learning Projects see that [Structuring Machine Learning Projects](https://www.coursera.org/account/accomplishments/verify/AD479UETKSSA).
+
+## TensorFlow: Data and Deployment
+* Browser-based Models with TensorFlow.js see that [Browser-based Models with TensorFlow.js](https://www.coursera.org/account/accomplishments/verify/YG4J3U46UUW2).
 
 # Dicoding-certificate
 
