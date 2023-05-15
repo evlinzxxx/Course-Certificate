@@ -44,6 +44,8 @@ Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and De
 * Browser-based Models with TensorFlow.js, see that [Browser-based Models with TensorFlow.js](https://www.coursera.org/account/accomplishments/verify/YG4J3U46UUW2).
 * Device-based Models with TensorFlow Lite, see that [Device-based Models with TensorFlow Lite](https://www.coursera.org/account/accomplishments/verify/UWTVLAD9W3Q8).
 * Data Pipelines with TensorFlow Data Services, see that [Data Pipelines with TensorFlow Data Services](https://www.coursera.org/account/accomplishments/verify/2P5SHWUNSLME).
+* Advanced Deployment Scenarios with TensorFlow, see that [Advanced Deployment Scenarios with TensorFlow](https://www.coursera.org/account/accomplishments/verify/WQ9NT2FWPYCU).
+* ALL of them, see that [here](https://www.coursera.org/account/accomplishments/specialization/XM6QB9JH7RW7).
 
 # Dicoding-certificate
 
